@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @momo074
+- 👋 Hi, I’m Maurice Chicoine also known as @momo074
 - 👀 I’m interested in cybersecurity topics
 - 🌱 I’m currently learning how to create a ransomware for academic purpose
 - 💞️ I’m looking to collaborate on 
